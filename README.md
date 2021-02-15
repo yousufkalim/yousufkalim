@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](./images/top1.svg)
 
 I love coding in MERN Stack. I work at [UpWork](https://upwork.com/) as a Full-Stack Developer and occassionally participate in hackathons.
 
