@@ -1,6 +1,6 @@
 ![alt text](./images/top.png)
 
-I love coding in MERN Stack. I work at [Falcon IT Consulting](https://www.falconconsulting.fr/) as a lead Full-Stack Developer and occassionally participate in hackathons.
+I love coding in MERN Stack. I work at [Falcon IT Consulting](https://www.falconconsulting.fr/) as a lead full stack developer and occassionally participate in hackathons.
 
 <!--
 **yousufkalim/yousufkalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
