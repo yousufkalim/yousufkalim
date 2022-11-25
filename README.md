@@ -8,7 +8,7 @@ I love coding in MERN Stack. I work at [Falcon IT Consulting](https://www.falcon
 Here are some ideas to get you started:
 -->
 
-👨‍💻 About Me:
+🧑‍💼 About Me:
 
 -   💻 I’m currently working at Falcon IT ...
 -   👨‍💻 I convert coffee into code using MERN Stack ...
