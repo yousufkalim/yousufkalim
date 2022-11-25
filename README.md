@@ -20,6 +20,7 @@ About Me:
 
 -   🧑‍💻 I was 9 when I started learing HTML.
 -   🖥️ I have worked in IT for over half my life.
+-   📊 I have developed and deployed over 300 projects combined.
 -   📚 I'm reading a book about financial technology to familiarize myself with the industry and its ongoing trends.
 -   🥇 I occasionally participate in hackathons.
 -   :pencil2: I Write blogs on yousufkalim.com on free days.
