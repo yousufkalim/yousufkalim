@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -   🌱 I’m currently learning Web 3 and Blockchain ...
 -   👯 Collaborating on cool and open source projects ...
 -   💬 Ask me about anything ...
--   📫 How to reach me: <a href="https://mrdev.me">mrdev.me</a> ...
+-   📫 How to reach me: <a href="https://yousufkalim.com">yousufkalim.com</a> ...
 
 ⚡ Fun fact:
 
@@ -28,5 +28,14 @@ Here are some ideas to get you started:
 -   :pencil2: I Write blogs on yousufkalim.com on free days.
 -   :musical_note: I love to hear Lo-Fi music.
 
+### Let's Connect :coffee:
 
+ <p align="center">
+ 	<a href="https://github.com/yousufkalim"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+ 	<a href="https://www.linkedin.com/in/yousufkalim/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+ 	<a href="https://www.facebook.com/mianyousufkalim/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+ 	<a href="https://www.instagram.com/yousuf.kalim/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+ 	<a href="https://twitter.com/yousuf_kalim"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
+ </p>
+ 
 ![alt text](./images/bottom.svg)
